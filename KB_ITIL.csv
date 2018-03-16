@@ -1,0 +1,742 @@
+Que a atividade de TI não é de responsabilidade da gestão de continuidade do serviço?;Execução de análises de impacto dos incidentes relacionados com as instalações de back-out
+Qual processo ITIL oferece propostas de mudança, a fim de eliminar erros estruturais?;Gerenciamento de Problemas
+Não é uma atividade Service Desk;Resolver um problema
+Qual dos seguintes descreve o conceito básico de integridade na Segurança Processo de gestão?;A correção dos dados
+Qual processo ITIL é responsável por alocar os custos anuais de contratos?;Gerenciamento Financeiro para Serviços de TI
+Como o Gerenciamento de Problema contribui para uma maior porcentagem de solução de suporte de primeira linha?;Ao fazer um banco de dados de conhecimento disponível
+Qual afirmação melhor descreve o papel da Central de Serviços?;O serviço funciona como Posto o primeiro contato do cliente
+Quando uma organização decide controlar o fluxo de informações dos incidentes de TI dentro da organização, qual processo ITIL seria o correto?;Gerenciamento de Incidentes
+Como uma mudança rápida deve ser chamada?;Uma mudança urgente
+Uma grande falha afetou a infra-estrutura de TI inteira. Felizmente, existe uma ITSC ??Plano disponíveis. Quando for falta de energia, será considerado um desastre para o Plano ITSC?;Quando o Gerenciador de continuidade espera a falha para durar mais tempo do que o máximo período de tempo mencionado no acordo de nível de serviço
+Qual das seguintes afirmações sobre o catálogo de serviços é a correta?;Ele descreve todos os serviços que podem ser fornecidos pelo gerenciamento de TI da organização
+Qual processo ITIL tem a responsabilidade de impedir o acesso não autorizado aos dados?;Gestão de Segurança
+Qual processo ITIL é responsável por determinar o hardware necessário para suportar uma determinada aplicação?;Gerenciamento da Capacidade
+Qual assunto deve ser um dos itens na agenda de uma reunião do Change Advisor Board (CAB)?;As mudanças em curso ou concluídas
+Qual dos seguintes é um benefício de se usar ITIL?;Que a qualidade e os custos dos serviços de TI pode ser controlada de forma mais eficiente
+Qual é a base da abordagem ITIL para gerenciamento de serviços?;Atividades inter relacionadas
+Quem decide a categoria de uma mudança?;O gerente de mudança
+As alterações são divididas em categorias. Quais os critérios que definem uma categoria para uma  mudança?;As consequências da mudança, como limitação, substancial, significativa, etc...
+Qual atividade no processo de gerenciamento de problemas é responsável por gerar pedidos de mudança (RFC)?;Controle de Erros
+O financeiro chama o service desk e relata que o sistema está lento. Ele pergunta se ele pode ser dado outro PC como o do colega, que é muito mais rápido. Que termo é aplicável a esta situação?;Pedido de Mudança
+Que status é atribuído a um problema uma vez que sua causa foi identificada?;Erro Conhecido
+Quem é responsável pelo rastreamento e monitoramento de um incidente?;Service Desk
+Qual processo ITIL ou que departamento tem responsabilidades que incluem distribuição de informações para os usuários?;Service Desk
+"No Processo de Gestão de Nível de Serviço, o que acontece durante a atividade chamada ""monitorando""?";Guarda acordos com o cliente
+Qual das seguintes perguntas não podem ser respondidas diretamente pela Configuration Manager Database  (CMDB)?;Quais são os membros do pessoal do departamento x mudaram para o departamento Y?
+Onde estão os estados das mudanças registradas?;No banco de dados de gerenciamento de configuração (CMDB)
+Qual processo ITIL é responsável por configurar o sistema de alocação de custos?;Gerenciamento Financeiro para Serviços de TI
+Usuários reclamaram sobre o serviço de e-mail. Uma avaliação do serviço tem sido realizada. Qual a atividade ocorre após a avaliação de um serviço?;Ajuste do serviço
+Qual dos seguintes é um benefício de usar ITIL?;Que a qualidade e os custos dos serviços de TI pode ser controlada de forma mais eficiente
+Qual é a diferença entre um processo e um projeto?;Um processo é contínuo e não tem data final, enquanto que um projeto tem vida útil limitada
+Todo software é verificado a existência de vírus antes que ele vai para a Biblioteca de Software Definitiva (DSL). Que processo ITIL é responsável por assegurar que o software só é colocado no DSL quando está livre de vírus?;Gerenciamento de Liberação
+Para qual das seguintes atividades de gerenciamento de configuração são implementadas auditorias regulares?;Verificação 
+Quando uma Pós-implementação de revisão terá lugar?;Depois de toda Mudança
+Onde estão documentadas atividades com o objetivo de melhorar um serviço de TI?;Programa de Melhoria de Serviço
+O que o Tempo médio para reparo (MTTR) significa?;Tempo de indisponibilidade média de um serviço
+Pelo que a Gestão de Capacidade é responsável?;Gestão de Recursos
+Uma análise foi feita em relação a expansão das informações do banco de dados cliente . O resultado indica que a capacidade do disco de mainframe deve ser aumentada, para acomodar o crescimento esperado do banco de dados no futuro. Que processo é responsável por compartilhar esta informação em tempo, para certificar de que o espaço disponível em disco é suficiente?;Gerenciamento da Capacidade
+Quando é um erro conhecido identificado?;Quando a causa do problema é conhecida
+Qual é o termo usado para uma situação derivada de uma série de incidentes com as mesmas características?;Um problema
+Quando a causa de um ou mais incidentes não é conhecida, recursos adicionais são atribuídos para identificar a causa. Qual processo ITIL é responsável por isso?;Gerenciamento de Problemas
+Qual processo do ITIL oferece uma visão, através da atividade de modelagem, as tendências que podem causar problemas de desempenho no futuro?;Gerenciamento da Capacidade
+Qual processo do ITIL é responsável por analisar os riscos e mensurá-los?;Gestão de Continuidade de ITService
+Qual das seguintes partes envolvidas em um incidente determina se o incidente que pode ser fechado?;Usuário 
+Que atividade ocorre imediatamente após a gravação e registro de um incidente?;Classificação
+No processo de gestão de mudanças, que papel é responsável por todo o processo?;Change Manager
+Que conhecimento técnico adicional é usado no processo de gerenciamento de incidentes?;Escalonamento Funcional
+Que termo é usado para uma mudança integralmente descrita e aprovada e que não tem de ser avaliado toda vez pelo Gerenciamento de Mudanças?;Mudança Padrão
+XYZ planeja a implementação de um novo sistema operacional de rede. Antes da implementação real ocorrer, o plano de abordagem para alcançar a implementação é discutido. Sob qual liderança este debate se realizou?;O Gerente de Mudanças
+De qual processo ITIL são a confiabilidade, manutenção e componentes de manutenção?;Gerenciamento da Disponibilidade
+Qual processo ITIL visa prevenir incidentes resultantes de alterações na TI infra-estrutura?;Gestão da Mudança
+Qual dos seguintes é um departamento, em vez de um processo?;Service Desk
+Relatórios de diferentes tipos chegam a um Service Desk. Qual dos seguintes relatórios é um incidente?;Um relatório que a impressora não está funcionando
+Onde está o planejamento de mudanças mantidos até à data?;O FSC (Forward Calendário de Alterações)
+O que é uma linha de base na infraestrutura de TI?;A configuração padrão (tal como uma estação de trabalho padrão)
+Um processo é uma série de atividades de uma meta pré-definida. O que o proprietário do processo  é responsável?;O resultado do processo de
+Em minha organização, o departamento de compras foi transferido internamente, não apenas as pessoas, mas também os seus recursos de TI. Um funcionário do posto de serviço foi contratado para mudar as estações de trabalho deste departamento. Em que processo ITIL este empregado desempenhar um papel?;Gestão da Mudança
+Como uma organização pode determinar a eficácia do Gerenciamento do Nível de Serviço do processo?;Ao medir a satisfação do cliente
+Qual das seguintes é a melhor descrição do conteúdo da Biblioteca Definitiva de Software ?;Versões autorizadas de todos os softwares utilizados na infraestrutura
+Como uma organização pode determinar a eficácia do Gerenciamento do Nível de Serviço processo?;Ao medir a satisfação do cliente
+Qual processo ITIL assegura que a informação que tem sido feita satisfaz os requisitos disponíveis de segurança da informação?;Gestão de Segurança
+Qual é o primeiro passo ao registrar um incidente?;Atribuir um número de incidente
+Onde os acordos sobre Gestão de Segurança são gravados?;Em um acordo de nível de serviço (SLA)
+Qual é a tarefa primária de Controle de Erros?;Corrigindo erros conhecidos
+Qual processo ITIL pretende traçar críticas de negócios de serviços para os quais medidas de emergência devem ser tomadas?;IT Service Management Continuamente
+Onde são documentadas atividades com o objetivo de melhorar um serviço de TI?;Programa de Melhoria de Serviço (SIP)
+Gestão de Segurança inclui uma série de sub-processos. Que a atividade de segurança leva a uma gestão de sub-cláusula segurança no Acordo de Nível de Serviço (SLA)?;Plano 
+Qual dos seguintes é um exemplo de gestão proativa de problemas?;Uma análise de tendências
+Qual é a primeira atividade na implementação de um release?;Compilando o calendário de lançamento
+Qual processo ITIL é responsável por criar os acordos de custo para apoio extra de o balcão de atendimento?;Gerenciamento de Nível de Serviço
+Como é chamado o pedido para substituir alguma coisa dentro da infraestrutura de TI?;Pedido de mudança
+Qual processo ITIL é responsável por traçar a causa subjacente de erros?;Gerenciamento de Problemas
+Em Gestão da Mudança, uma série de atividades realizadas entre a aceitação de um solicitação de  alteração e a conclusão da mudança. Qual a atividade é realizada após aceitação de um pedido de alteração?;Determinação da urgência da mudança
+De acordo com a qualidade do círculo Deming um número de passos deve ser executado repetidamente, a fim de garantir um bom desempenho Qual das seguintes respostas especifica a correta sequência destas medidas?;Plan - Do - Check - Act
+O que significa a urgência de um incidente?;O tempo necessário para que os serviços de TI tem para resolver o incidente
+Informação e Comunicação (TIC) inclui tanto Gestão de Ativos e Gestão de Configuração. Qual é a diferença entre a Gestão de Ativos e Gerenciamento da Configuração?;Gestão de Ativos monitora aspectos tais como a depreciação e Gestão de configuração monitora  aspectos como as relações entre os itens de configuração
+Qual é o critério utilizado pelo Gerenciamento de Mudanças na determinação da categoria para Pedir uma mudança?;Impacto
+O círculo de qualidade Deming é um modelo de controle baseado na qualidade. Que nesta etapa modelo deve ser feito primeiro?;Planejamento
+uais são os dados, para um novo item de configuração (IC), é registrado na configuração gestão de banco de dados?;A relação a outros itens de configuração (IC)
+Em XYZ um componente específico da infraestrutura de TI foi modificado. Isto poderia ter consequências para os outros componentes. Que processo ITIL deveria ser criado a fim de proporcionar uma boa visão essas consequências?;Gestão de Configuração
+As informações são regularmente trocadas entre Gestão de Problemas e Gestão da Mudança. Que informação é essa?;RFCs resultantes de erros conhecidos
+Que aspectos são descritos em um Acordo de Nível de Serviço (SLA)?;A qualidade expressa em termos de qualidade e custos, dos serviços oferecidos
+"O que significa o termo ""nível de detalhe"" no contexto do banco de dados de gerenciamento de configuração (CMDB)?";A profundidade da estrutura de base de dados
+Uma das tarefas de gerenciamento de problemas é proativamente evitar incidentes. Qual das seguintes é uma atividade de Gerenciamento de Problemas que podem ser categorizadas como proativo?;Analisando incidentes reportados, a fim de dar recomendações
+Qual dos seguintes é um benefício de usar ITIL?;Que a qualidade e os custos dos serviços de TI pode ser controlada de forma mais eficiente
+Que atividade não é de responsabilidade do Gerenciamento de continuidade de serviço?;Execução de análises de impacto dos incidentes relacionados com as instalações de back-out
+O que o Tempo médio para reparo (MTTR) significa?;Paralisação média de um serviço
+Qual processo ITIL realiza uma análise de risco sobre as possíveis ameaças e vulnerabilidades da infraestrutura de TI?;TI gestão de continuidade de serviço
+O Service Desk recebe diferentes tipos de chamadas. Qual dos seguintes é um incidente?;Uma mensagem do sistema que a impressora não está funcionando
+É verificada a existência de vírus no Software antes que ele vai para a Biblioteca de Software Definitiva (DSL). Qual processo ITIL é responsável por assegurar que o software livre de vírus só é colocado no DSL?;Gestão de Lançamento
+Gerenciamento de Liberação distribuiu um lançamento com defeito. Como resultado, o faturamento mensal chegou a um impasse. Isso tem conseqüências muito sérias para o negócio e tem sido relatado como um incidente. De acordo com melhores práticas de ITIL, o que deve acontecer em seguida?;A Gestão de Lançamento irá implementar o plano de back-out
+Qual processo ITIL é responsável por tratar de um pedido de nova estação de trabalho de acordo com um método padrão de trabalho?;Gestão da Mudança
+"Qual atividade no processo de ITIL ""Gestão Financeira para serviços de TI"" é responsável por faturamento dos serviços que foram fornecidos para o cliente?";Cobrança
+O Capacity Manager solicita que o usuário de um aplicativo, se uma determinada atividade pode ser realizada durante a noite para que a CPU não seja sobrecarregada durante o dia. Que parte do processo de Gestão de capacidade que se refere?;Gestão de Demanda
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
